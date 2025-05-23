@@ -16,6 +16,3 @@ This repository demonstrates how to build an AI agent from scratch. It will guid
 
 ## Contributing
 Contributions are welcome! Please open issues or pull requests for improvements or questions.
-
-## License
-This project is licensed under the MIT License.
